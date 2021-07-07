@@ -1,0 +1,4 @@
+YON,Are you happy with your training?
+OOT,How would you rate your training out of 10?
+YON,Are you okay?
+OOT,how do rate the company?
